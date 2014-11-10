@@ -1,7 +1,7 @@
 Package.describe({
   name: 'zephadias:errors',
   summary: 'A pattern to display application errors to the user',
-  version: '1.0.0',
+  version: '1.0.1',
   git: 'https://github.com/Zephadias/meteor-errors'
 });
 
